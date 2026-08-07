@@ -1,1 +1,1 @@
-# Awesome-Agentic-Gen-
+# Awesome Agentic Gen

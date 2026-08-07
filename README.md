@@ -5,4 +5,4 @@
 
 Join our WeChat community to discuss.
 
-<img src="./assets/wechat-group.png" width="300">
+<img src="./assets/ed048cd69337aa1bd8679ae5457ad42d.jpg" width="300">

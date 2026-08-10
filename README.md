@@ -125,6 +125,7 @@
 | SAGE: Scalable Agentic 3D Scene Generation for Embodied AI | [arXiv](https://arxiv.org/abs/2602.10116) | CVPR 2026 |
 | Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling | [arXiv](https://arxiv.org/abs/2602.09084) | — |
 | M3: High-fidelity Text-to-Image Generation via Multi-Modal, Multi-Agent and Multi-Round Visual Reasoning | [arXiv](https://arxiv.org/abs/2602.06166) | — |
+| PaperX: A Unified Framework for Multimodal Academic Presentation Generation with Scholar DAG | [arXiv](https://arxiv.org/abs/2602.03866) | — |
 | SIDiffAgent: Self-Improving Diffusion Agent | [arXiv](https://arxiv.org/abs/2602.02051) | — |
 | Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation | [arXiv](https://arxiv.org/abs/2602.01756) | — |
 

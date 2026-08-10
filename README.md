@@ -1,5 +1,42 @@
 # Awesome Agentic Gen
 
+🔥 A curated and continuously updated collection of research papers on **Agentic Generation**.
+
+Recent advances in multimodal foundation models are pushing generative systems beyond one-shot synthesis toward **agentic creation** — systems that can **reason, plan, search, use tools, generate, evaluate, refine, and self-improve** through iterative interaction with generative models and environments.
+
+This repository aims to track research at the intersection of **AI Agents** and **Multimodal Generation**, covering both autonomous agents and agentic workflows for creating and editing visual content.
+
+## 📚 Scope
+
+We broadly include research on:
+
+* 🖼️ **Agentic Image Generation & Editing**
+* 🎬 **Agentic Video Generation & Editing**
+* 🌍 **3D / World / CAD Generation Agents**
+* 🔍 **Search- and Retrieval-Augmented Generation Agents**
+* 🛠️ **Tool-Using & Workflow Generation Agents**
+* 🤖 **Multi-Agent Generative Systems**
+* 🧠 **Planning, Reasoning, Reflection & Self-Evolving Generation**
+* 🎨 **Creative Agents for Figures, Posters, Slides, UI, SVG, and Design**
+* ⚙️ **ComfyUI and Generative Workflow Agents**
+* 📊 **Benchmarks, Evaluation, and Data for Agentic Generation**
+
+We use a **broad definition of Agentic Generation**: a work may be included if an agent, multi-agent system, planner, controller, or agentic workflow plays a meaningful role in the generation process — such as task decomposition, information retrieval, tool selection, workflow construction, generation, evaluation, refinement, editing, or self-improvement.
+
+Papers are organized in **reverse chronological order**, with the latest works listed first.
+
+## 🤝 Contributions
+
+Agentic Generation is evolving rapidly, and we may miss relevant papers.
+
+If you know of a paper that should be included, feel free to **open an issue or submit a pull request**.
+
+⭐ If you find this repository useful, please consider giving it a star!
+
+> **From one-shot generation to agents that search, plan, create, evaluate, refine, and evolve.**
+
+## 📝 Papers
+
 ### 2026-08
 
 | Title | Paper Link | Venue |

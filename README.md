@@ -1,5 +1,253 @@
 # Awesome Agentic Gen
 
+### 2026-08
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation | [arXiv](https://arxiv.org/abs/2608.04436) | — |
+| PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs | [arXiv](https://arxiv.org/abs/2608.02218) | — |
+| CADIR: A Cross-Backend Editable Intermediate Representation for Agentic CAD Generation | [arXiv](https://arxiv.org/abs/2608.00891) | — |
+| ParticleGen: A Multi-Agent System for Particle Effects Generation | [arXiv](https://arxiv.org/abs/2608.00629) | — |
+| DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable | [arXiv](https://arxiv.org/abs/2608.00548) | — |
+
+### 2026-07
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System | [arXiv](https://arxiv.org/abs/2607.27380) | — |
+| PRISM: Prompt Refinement via Image-grounded Self-Rewarding Mechanism | [arXiv](https://arxiv.org/abs/2607.24353) | — |
+| What Can I Edit? Open-Ended Strategy Discovery and the Emotion Editability Landscape (EmoScope) | [arXiv](https://arxiv.org/abs/2607.23920) | — |
+| JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents | [arXiv](https://arxiv.org/abs/2607.23588) | — |
+| GS-Agent: Creating 4D Physical Worlds With Generative Simulation | [arXiv](https://arxiv.org/abs/2607.21522) | — |
+| Engine-Native Editable 3D World Reconstruction with Objects and Lighting | [arXiv](https://arxiv.org/abs/2607.20889) | — |
+| ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program | [arXiv](https://arxiv.org/abs/2607.19947) | — |
+| FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling | [arXiv](https://arxiv.org/abs/2607.19038) | — |
+| Knowledge-Centric Agents for Workflow Generation in ComfyUI | [arXiv](https://arxiv.org/abs/2607.15845) | — |
+| SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning | [arXiv](https://arxiv.org/abs/2607.12042) | — |
+| CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration | [arXiv](https://arxiv.org/abs/2607.05465) | — |
+| Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation | [arXiv](https://arxiv.org/abs/2607.05382) | — |
+| CoGen3D: An Agentic Human-AI Co-Design Pipeline for 3D Asset Generation for Virtual Reality | [arXiv](https://arxiv.org/abs/2607.03731) | — |
+| OmniPresent: Generating Coherent Presentation Suites from Scientific Papers | [arXiv](https://arxiv.org/abs/2607.02590) | — |
+| SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation | [arXiv](https://arxiv.org/abs/2607.01766) | — |
+| COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows | [arXiv](https://arxiv.org/abs/2607.01709) | — |
+| SAGE: Structured Agentic Graph Editing for Software Diagrams | [arXiv](https://arxiv.org/abs/2607.01102) | — |
+| Grounded Multi-Operation Editing for E-Commerce Images (GMO-E²DIT) | [arXiv](https://arxiv.org/abs/2607.00920) | — |
+
+### 2026-06
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation | [arXiv](https://arxiv.org/abs/2606.31537) | — |
+| Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution (SEAR) | [arXiv](https://arxiv.org/abs/2606.28971) | — |
+| Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards | [arXiv](https://arxiv.org/abs/2606.27376) | — |
+| Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation | [arXiv](https://arxiv.org/abs/2606.26907) | — |
+| VideoAgent: All-in-One Framework for Video Understanding and Editing | [arXiv](https://arxiv.org/abs/2606.23327) | — |
+| RS-Gen: A Multi-Stage Agentic Framework for Reasoning and Search-Augmented Image Generation | [arXiv](https://arxiv.org/abs/2606.23221) | — |
+| Taming I2V Models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework (SCPE) | [arXiv](https://arxiv.org/abs/2606.19073) | — |
+| Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops (CHIEF) | [arXiv](https://arxiv.org/abs/2606.18591) | — |
+| SceneCraft: Interactive System for Image Editing via Scene Graph | [arXiv](https://arxiv.org/abs/2606.16103) | — |
+| MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction | [arXiv](https://arxiv.org/abs/2606.14168) | — |
+| InterleaveThinker: Reinforcing Agentic Interleaved Generation | [arXiv](https://arxiv.org/abs/2606.13679) | — |
+| SceneConductor: 3D Scene Generation from a Single Image with Multi-Agent Orchestration | [arXiv](https://arxiv.org/abs/2606.08402) | — |
+| VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation | [arXiv](https://arxiv.org/abs/2606.08091) | — |
+| ViMax: Agentic Video Generation | [arXiv](https://arxiv.org/abs/2606.07649) | — |
+| Crayotter: Traceable Multi-Agent Workflows for Long-Form Video Editing | [arXiv](https://arxiv.org/abs/2606.07636) | — |
+| MemoGen: Can Past Experience Improve Future Text-to-Image Generation? | [arXiv](https://arxiv.org/abs/2606.03243) | — |
+| JAVEDIT: Joint Audio-Visual Instruction-Guided Video Editing with Agentic Data Curation | [arXiv](https://arxiv.org/abs/2606.03168) | — |
+| Any2Poster: Any-Source Poster Generation Across Modalities and Domains | [arXiv](https://arxiv.org/abs/2606.02915) | — |
+| OctoT2I: A Self-Evolving Agentic Text-to-Image Router | [arXiv](https://arxiv.org/abs/2606.01803) | — |
+| APE: Agentic Prompt Enhancer for Image Generation and Editing | [arXiv](https://arxiv.org/abs/2606.00204) | — |
+
+### 2026-05
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs | [arXiv](https://arxiv.org/abs/2605.30611) | — |
+| GenClaw: Code-Driven Agentic Image Generation | [arXiv](https://arxiv.org/abs/2605.30248) | — |
+| DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation | [arXiv](https://arxiv.org/abs/2605.30090) | — |
+| MangaFlow: An End-to-End Agentic Framework for Controllable Story to Manga Generation | [arXiv](https://arxiv.org/abs/2605.28173) | — |
+| AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks? | [arXiv](https://arxiv.org/abs/2605.27705) | — |
+| LiveFigure: Generating Editable Scientific Illustration with VLM Agents | [arXiv](https://arxiv.org/abs/2605.23527) | — |
+| GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation | [arXiv](https://arxiv.org/abs/2605.21605) | — |
+| Aurora: Unified Video Editing with a Tool-Using Agent | [arXiv](https://arxiv.org/abs/2605.18748) | — |
+| Generation Navigator: A State-Aware Agentic Framework for Image Generation | [arXiv](https://arxiv.org/abs/2605.17969) | — |
+| Articraft: An Agentic System for Scalable Articulated 3D Asset Generation | [arXiv](https://arxiv.org/abs/2605.15187) | — |
+| From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing | [arXiv](https://arxiv.org/abs/2605.15181) | — |
+| SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning | [arXiv](https://arxiv.org/abs/2605.09423) | — |
+| SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation | [arXiv](https://arxiv.org/abs/2605.08043) | — |
+| EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement | [arXiv](https://arxiv.org/abs/2605.07457) | — |
+| Action Agent: Agentic Video Generation Meets Flow-Constrained Diffusion | [arXiv](https://arxiv.org/abs/2605.01477) | — |
+
+### 2026-04
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| Co-Director: Agentic Generative Video Storytelling | [arXiv](https://arxiv.org/abs/2604.24842) | — |
+| Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback | [arXiv](https://arxiv.org/abs/2604.20730) | — |
+| Making Image Editing Easier via Adaptive Task Reformulation with Agentic Executions | [arXiv](https://arxiv.org/abs/2604.15917) | — |
+| Authoring for Living Worlds: Tool-Constrained LLM Agents for Executable Multi-Actor Scenarios | [arXiv](https://arxiv.org/abs/2604.10383) | — |
+| EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution | [arXiv](https://arxiv.org/abs/2604.09568) | — |
+| Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation | [arXiv](https://arxiv.org/abs/2604.09195) | — |
+
+### 2026-03
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| CutClaw: Agentic Hours-Long Video Editing via Music Synchronization | [arXiv](https://arxiv.org/abs/2603.29664) | — |
+| Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis | [arXiv](https://arxiv.org/abs/2603.29620) | — |
+| IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection | [arXiv](https://arxiv.org/abs/2603.29602) | — |
+| Automatic Method Illustration Generation for AI Scientific Papers via Drawing Middleware Creation, Evolution, and Orchestration | [arXiv](https://arxiv.org/abs/2603.29590) | — |
+| Gen-Searcher: Reinforcing Agentic Search for Image Generation | [arXiv](https://arxiv.org/abs/2603.28767) | — |
+| GEMS: Agent-Native Multimodal Generation with Memory and Skills | [arXiv](https://arxiv.org/abs/2603.28088) | — |
+| ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework | [arXiv](https://arxiv.org/abs/2603.20644) | — |
+| Agentic Flow Steering and Parallel Rollout Search for Spatially Grounded Text-to-Image Generation (AFS-Search) | [arXiv](https://arxiv.org/abs/2603.18627) | — |
+| Mind-of-Director: Multi-modal Agent-Driven Film Previsualization via Collaborative Decision-Making | [arXiv](https://arxiv.org/abs/2603.14790) | — |
+| GameUIAgent: An LLM-Powered Framework for Automated Game UI Design with Structured Intermediate Representation | [arXiv](https://arxiv.org/abs/2603.14724) | — |
+| coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation | [arXiv](https://arxiv.org/abs/2603.12829) | CVPR 2026 Findings |
+| SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation | [arXiv](https://arxiv.org/abs/2603.12238) | — |
+| MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks | [arXiv](https://arxiv.org/abs/2603.11554) | — |
+| COMIC: Agentic Sketch Comedy Generation | [arXiv](https://arxiv.org/abs/2603.11048) | — |
+| ImageEdit-R1: Boosting Multi-Agent Image Editing via Reinforcement Learning | [arXiv](https://arxiv.org/abs/2603.08059) | — |
+| Agentic Planning with Reasoning for Image Styling via Offline RL | [arXiv](https://arxiv.org/abs/2603.07148) | — |
+| AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems | [arXiv](https://arxiv.org/abs/2603.07106) | Findings of ACL 2026 |
+| StruVis: Enhancing Reasoning-based Text-to-Image Generation via Thinking with Structured Vision | [arXiv](https://arxiv.org/abs/2603.06032) | — |
+| InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions | [arXiv](https://arxiv.org/abs/2603.03646) | — |
+| VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation | [arXiv](https://arxiv.org/abs/2603.02681) | CVPR 2026 |
+| RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment | [arXiv](https://arxiv.org/abs/2603.00483) | CVPR 2026 |
+
+### 2026-02
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation | [arXiv](https://arxiv.org/abs/2602.22839) | — |
+| PhotoAgent: Agentic Photo Editing with Exploratory Visual Aesthetic Planning | [arXiv](https://arxiv.org/abs/2602.22809) | ICML 2026 (Oral) |
+| AnimeAgent: Is the Multi-Agent via Image-to-Video Models a Good Disney Storytelling Artist? | [arXiv](https://arxiv.org/abs/2602.20664) | — |
+| SAGE: Scalable Agentic 3D Scene Generation for Embodied AI | [arXiv](https://arxiv.org/abs/2602.10116) | CVPR 2026 |
+| Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling | [arXiv](https://arxiv.org/abs/2602.09084) | — |
+| M3: High-fidelity Text-to-Image Generation via Multi-Modal, Multi-Agent and Multi-Round Visual Reasoning | [arXiv](https://arxiv.org/abs/2602.06166) | — |
+| SIDiffAgent: Self-Improving Diffusion Agent | [arXiv](https://arxiv.org/abs/2602.02051) | — |
+| Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation | [arXiv](https://arxiv.org/abs/2602.01756) | — |
+
+### 2026-01
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| PaperBanana: Automating Academic Illustration for AI Scientists | [arXiv](https://arxiv.org/abs/2601.23265) | ICML 2026 (Spotlight) |
+| GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning | [arXiv](https://arxiv.org/abs/2601.18543) | — |
+| Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning (VIGA) | [arXiv](https://arxiv.org/abs/2601.11109) | — |
+| Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders | [arXiv](https://arxiv.org/abs/2601.10332) | — |
+| From Text to Simulation: A Multi-Agent LLM Workflow for Automated Chemical Process Design | [arXiv](https://arxiv.org/abs/2601.06776) | — |
+| From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling | [arXiv](https://arxiv.org/abs/2601.05016) | — |
+| SciFig: Towards Automating Editable Figure Generation for Scientific Papers | [arXiv](https://arxiv.org/abs/2601.04390) | — |
+| ComfySearch: Autonomous Exploration and Reasoning for ComfyUI Workflows | [arXiv](https://arxiv.org/abs/2601.04060) | — |
+| Agentic Retoucher for Text-To-Image Generation | [arXiv](https://arxiv.org/abs/2601.02046) | CVPR 2026 |
+
+### 2025-12
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| AutoMV: An Automatic Multi-Agent System for Music Video Generation | [arXiv](https://arxiv.org/abs/2512.12196) | — |
+| AgentComp: From Agentic Reasoning to Compositional Mastery in Text-to-Image Models | [arXiv](https://arxiv.org/abs/2512.09081) | — |
+
+### 2025-11
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization | [arXiv](https://arxiv.org/abs/2511.23002) | CVPR 2026 |
+| MIRA: Multimodal Iterative Reasoning Agent for Image Editing | [arXiv](https://arxiv.org/abs/2511.21087) | CVPR 2026 Findings |
+| ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation | [arXiv](https://arxiv.org/abs/2511.11483) | — |
+
+### 2025-10
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration (VisPainter) | [arXiv](https://arxiv.org/abs/2510.27452) | — |
+| Open Multimodal Retrieval-Augmented Factual Image Generation (ORIG) | [arXiv](https://arxiv.org/abs/2510.22521) | — |
+| Hollywood Town: Long-Video Generation via Cross-Modal Multi-Agent Orchestration | [arXiv](https://arxiv.org/abs/2510.22431) | — |
+| VISTA: A Test-Time Self-Improving Video Generation Agent | [arXiv](https://arxiv.org/abs/2510.15831) | CVPR 2026 |
+| GenPilot: A Multi-Agent System for Test-Time Prompt Optimization in Image Generation | [arXiv](https://arxiv.org/abs/2510.07217) | Findings of EMNLP 2025 |
+| World-To-Image: Grounding Text-to-Image Generation with Agent-Driven World Knowledge | [arXiv](https://arxiv.org/abs/2510.04201) | — |
+
+### 2025-09
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization | [arXiv](https://arxiv.org/abs/2509.12446) | EMNLP 2025 System Demonstrations |
+| Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration | [arXiv](https://arxiv.org/abs/2509.10704) | — |
+| Interleaving Reasoning for Better Text-to-Image Generation | [arXiv](https://arxiv.org/abs/2509.06945) | — |
+
+### 2025-08
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| AniME: Adaptive Multi-Agent Planning for Long Animation Generation | [arXiv](https://arxiv.org/abs/2508.18781) | SIGGRAPH Asia 2025 Posters |
+| An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing (RefineEdit-Agent) | [arXiv](https://arxiv.org/abs/2508.17435) | — |
+| PosterGen: Aesthetic-Aware Multi-Modal Paper-to-Poster Generation via Multi-Agent LLMs | [arXiv](https://arxiv.org/abs/2508.17188) | — |
+| A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation (MAGUS) | [arXiv](https://arxiv.org/abs/2508.10494) | — |
+| MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling | [arXiv](https://arxiv.org/abs/2508.08487) | — |
+| Talk2Image: A Multi-Agent System for Multi-Turn Image Generation and Editing | [arXiv](https://arxiv.org/abs/2508.06916) | AAAI 2026 |
+| Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision | [arXiv](https://arxiv.org/abs/2508.05606) | ICLR 2026 |
+
+### 2025-07
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for Enhanced Prompt Interpretation and Interactive Generation | [arXiv](https://arxiv.org/abs/2507.20536) | ICCV 2025 |
+| Captain Cinema: Towards Short Movie Generation | [arXiv](https://arxiv.org/abs/2507.18634) | — |
+| Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing | [arXiv](https://arxiv.org/abs/2507.05259) | — |
+
+### 2025-06
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| VisualPrompter: Semantic-Aware Prompt Optimization with Visual Feedback for Text-to-Image Synthesis | [arXiv](https://arxiv.org/abs/2506.23138) | ICLR 2026 |
+| AniMaker: Automated Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation | [arXiv](https://arxiv.org/abs/2506.10540) | SIGGRAPH Asia 2025 Conference Papers |
+| ComfyUI-R1: Exploring Reasoning Models for Workflow Generation | [arXiv](https://arxiv.org/abs/2506.09790) | Findings of ACL 2026 |
+| ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development | [arXiv](https://arxiv.org/abs/2506.05010) | ACL 2025 System Demonstrations |
+| Gen-n-Val: Agentic Image Data Generation and Validation | [arXiv](https://arxiv.org/abs/2506.04676) | CVPR 2026 Findings |
+| OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation | [arXiv](https://arxiv.org/abs/2506.02015) | CVPR 2026 |
+
+### 2025-05
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| ReasonGen-R1: CoT for Autoregressive Image Generation Models through SFT and RL | [arXiv](https://arxiv.org/abs/2505.24875) | — |
+| PreGenie: An Agentic Framework for High-quality Visual Presentation Generation | [arXiv](https://arxiv.org/abs/2505.21660) | Findings of EMNLP 2025 |
+| Agentic 3D Scene Generation with Spatially Contextualized VLMs | [arXiv](https://arxiv.org/abs/2505.20129) | — |
+| ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback | [arXiv](https://arxiv.org/abs/2505.17908) | — |
+| IA-T2I: Internet-Augmented Text-to-Image Generation | [arXiv](https://arxiv.org/abs/2505.15779) | — |
+| MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation | [arXiv](https://arxiv.org/abs/2505.02648) | CVPR 2025 |
+| T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT | [arXiv](https://arxiv.org/abs/2505.00703) | NeurIPS 2025 |
+
+### 2025-04
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment | [arXiv](https://arxiv.org/abs/2504.20054) | — |
+| A Unified Agentic Framework for Evaluating Conditional Image Generation (CIGEval) | [arXiv](https://arxiv.org/abs/2504.07046) | ACL 2025 |
+| CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation | [arXiv](https://arxiv.org/abs/2504.05306) | NeurIPS 2025 (Main Conference) |
+
+### 2025-03
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| ComfyGPT: A Self-Optimizing Multi-Agent System for Comprehensive ComfyUI Workflow Generation | [arXiv](https://arxiv.org/abs/2503.17671) | — |
+| Automated Movie Generation via Multi-Agent CoT Planning (MovieAgent) | [arXiv](https://arxiv.org/abs/2503.07314) | — |
+| MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio | [arXiv](https://arxiv.org/abs/2503.05242) | — |
+
+### 2025-02
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| Multi-Agent Multimodal Models for Multicultural Text to Image Generation (MosAIG) | [arXiv](https://arxiv.org/abs/2502.15972) | — |
+
+### 2025-01
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | [arXiv](https://arxiv.org/abs/2501.13926) | CVPR 2025 |
+| FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces | [arXiv](https://arxiv.org/abs/2501.12909) | — |
+
 
 ## Community
 

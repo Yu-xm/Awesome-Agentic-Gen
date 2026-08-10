@@ -378,3 +378,7 @@ If you know of a paper that should be included, feel free to **open an issue or 
 Join our WeChat community to discuss.
 
 <img src="./assets/ed048cd69337aa1bd8679ae5457ad42d.jpg" width="300">
+
+## 📮 Contact
+
+[yuxm02@gmail.com](mailto:yuxm02@gmail.com)

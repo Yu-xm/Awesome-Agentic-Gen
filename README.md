@@ -41,6 +41,14 @@ If you know of a paper that should be included, feel free to **open an issue or 
 
 | Title | Paper Link | Venue |
 |---|---|---|
+| AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design | [arXiv:2608.13560](https://arxiv.org/abs/2608.13560) | — |
+| StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization | [arXiv:2608.12314](https://arxiv.org/abs/2608.12314) | — |
+| Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence | [arXiv:2608.12290](https://arxiv.org/abs/2608.12290) | — |
+| VisPuzzle: Task-Aware Composite Visualization Construction | [arXiv:2608.11635](https://arxiv.org/abs/2608.11635) | IEEE VIS 2026 |
+| VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback? | [arXiv:2608.10408](https://arxiv.org/abs/2608.10408) | — |
+| WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models | [arXiv:2608.04964](https://arxiv.org/abs/2608.04964) | — |
+| DAC-Pose: Dual-Agent Collaborative Framework for Pose-Guided Human Generation | [arXiv:2608.04622](https://arxiv.org/abs/2608.04622) | — |
+| Monte Carlo Tree Search for Table-to-Multimodal Report Generation | [arXiv:2608.04071](https://arxiv.org/abs/2608.04071) | — |
 | ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation | [arXiv](https://arxiv.org/abs/2608.04436) | — |
 | PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs | [arXiv](https://arxiv.org/abs/2608.02218) | — |
 | CADIR: A Cross-Backend Editable Intermediate Representation for Agentic CAD Generation | [arXiv](https://arxiv.org/abs/2608.00891) | — |

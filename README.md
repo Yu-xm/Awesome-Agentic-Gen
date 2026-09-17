@@ -37,6 +37,12 @@ If you know of a paper that should be included, feel free to **open an issue or 
 
 ## 📝 Papers
 
+### 2026-09
+
+| Title | Paper Link | Venue |
+|---|---|---|
+| AgenticGen: Reward-Guided Agentic Video Generation for Advertising | [arXiv:2609.09187](https://arxiv.org/abs/2609.09187) | — |
+
 ### 2026-08
 
 | Title | Paper Link | Venue |
